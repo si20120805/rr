@@ -1,0 +1,38 @@
+.imt{
+
+    height: 20vh;
+    border-radius: 50%;
+    
+}
+
+.game{
+    background-color: green;
+    height: 20px;
+}
+
+
+.cart{
+
+    float: right;
+    margin: 25px;
+    position: relative;
+   
+
+}
+
+span{
+    
+display: flex;
+justify-content: center;
+align-items: center;
+    position: absolute;
+    z-index: 42;
+    background: green;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+
+    color: wheat;
+    
+    top:-10px;
+}
